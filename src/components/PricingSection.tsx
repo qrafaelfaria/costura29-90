@@ -64,10 +64,10 @@ const PricingSection = () => {
                 <p className="text-gray-400 line-through text-lg">De R$ 97,00</p>
                 <p className="text-gray-500 font-medium">Por apenas</p>
                 <div className="text-5xl sm:text-6xl font-black text-[#c43c6f] mt-2">
-                  R$ 19,90
+                  R$ 29,90
                 </div>
                 <p className="text-[#c43c6f] font-bold text-xl mt-1">
-                  ou 4x de R$ 5,57
+                  ou 4x de R$ 8,37
                 </p>
                 <p className="text-gray-400 text-sm mt-4 italic">
                   Pagamento único, sem mensalidades.
