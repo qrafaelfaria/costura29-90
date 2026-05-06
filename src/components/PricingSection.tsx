@@ -98,7 +98,7 @@ const PricingSection = () => {
               {/* CTA Button */}
               <div className="mt-12">
                 <a 
-                  href="https://pay.wiapy.com/eWxbrwirql" 
+                  href="https://pay.wiapy.com/YogiHVtzOo" 
                   className="block w-full py-5 bg-[#c43c6f] text-white text-xl font-black uppercase rounded-2xl shadow-lg hover:bg-[#a32d5a] transition-all transform hover:scale-[1.02] active:scale-[0.98] animate-pulse-glow"
                 >
                   QUERO GARANTIR MINHA VAGA
